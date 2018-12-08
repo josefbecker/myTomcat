@@ -26,7 +26,7 @@ After cloning this project run
  
   sudo docker run -it --rm -p 8888:8080 mywebserver
   
-  #3 Start Browser
+  # 3 Start Browser
   
     https://localhost:8888
     
