@@ -32,3 +32,7 @@ After cloning this project run
     
     click Manager App
     click helle-world
+    
+  # Further information about Tomcat Docker
+  
+    https://support.cmfirstgroup.com/hc/en-us/articles/115002378523-How-to-Create-and-Run-Apache-Tomcat-Docker-Container
