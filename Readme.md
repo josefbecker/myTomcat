@@ -28,7 +28,7 @@ After cloning this project run
   
   # 3 Start Browser
   
-    * [http://localhost:8888](http://localhost:8888)
+    [localhost](http://localhost:8888)
     
     click Manager App
     click helle-world
