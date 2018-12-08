@@ -13,4 +13,5 @@ After cloning this project run
 #3. Deploy the application using new-app, then create a route for it:
 
   oc new-app mytomcat
+  
   oc expose mytomcat
